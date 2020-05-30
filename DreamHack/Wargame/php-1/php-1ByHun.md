@@ -1,4 +1,4 @@
-#풀이
+# 풀이
 
 호스트와 포트를 받아 접속하면 뭐 별거 없는 웹사이트 하나가 나옵니다.
 
@@ -12,4 +12,4 @@
 
 그리고 이유는 모르겠지만 인코딩을 통해 값을 받지 않으면 can u see flag?라는 문자열이 보이고 real flag는 안보입니다
 
-[] 
+![payload](https://github.com/HYUPSUNGUNIVERSITY/CTF/blob/master/DreamHack/Wargame/php-1/image/Screen%20Shot%202020-05-28%20at%2010.25.33%20PM.png?raw=true) 
